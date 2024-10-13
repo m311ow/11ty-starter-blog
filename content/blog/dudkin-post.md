@@ -2,4 +2,4 @@
 title: dudkin post
 ---
 
-lubim dudku
+melko lubi dudku
